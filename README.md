@@ -19,16 +19,12 @@ I'm a skilled programmer with expertise in Node.js and related technologies. Bel
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)         
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-
-
 ## Interests
 - I have a passion for the world of Open Source and contributing to open-source projects.
 - Due to my interest in cybersecurity and Bug Bounty, I enjoy conducting security testing of websites, finding vulnerabilities, and reporting them.
 
 If you have any questions or want to discuss collaboration or joint projects, please feel free to get in touch.
 
-![Your Profile Image](Profile_Image_Link)
-
 You might want to replace "Profile_Image_Link" with the link to your actual profile image.
 
-You can use this README.md file as a brief introduction for your GitHub profile. As a differentiator project, you can expand it and add more information about yourself and your projects.
+You can use this README.md file as a brie
