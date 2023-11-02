@@ -43,10 +43,7 @@ I'm a Backend Developer with a stack that includes Node.js, NestJS, TypeScript, 
 ### Socials
 
 <p align="left">
-   <a href="https://www.dev.to/krtirtho" target="_blank" rel="noreferrer">
+   <a href="https://www.dev.to/erfuuan" target="_blank" rel="noreferrer">
      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" />
-   </a>
-   <a href="https://www.linkedin.com/in/kingkor-roy-tirtho-810b951b4" target="_blank" rel="noreferrer">
-     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
    </a>
 </p>
