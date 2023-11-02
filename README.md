@@ -41,7 +41,7 @@ I'm a Backend Developer with a stack that includes Node.js, NestJS, TypeScript, 
 </p>
 
 ![erfan's github stats](https://github-readme-stats.vercel.app/api?username=erfuuan&show_icons=true&hide_border=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkhan205&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erfuuan&layout=compact&theme=dark&hide_border=true)
 ### Socials
 
 <p align="left">
