@@ -39,9 +39,13 @@ I'm a Backend Developer with a stack that includes Node.js, NestJS, TypeScript, 
   </a>
 
 </p>
+### 📊 Github Stats
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/erfuuan/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/erfuuan/github-stats-transparent/output/generated/languages.svg)
 
-![erfan's github stats](https://github-readme-stats.vercel.app/api?username=erfuuan&show_icons=true&hide_border=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erfuuan&layout=compact&theme=dark&hide_border=true)
+</a>
 
 ### Socials
 <p align="left">
