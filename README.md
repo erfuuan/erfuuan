@@ -42,9 +42,10 @@ I'm a Backend Developer with a stack that includes Node.js, NestJS, TypeScript, 
 
 ![erfan's github stats](https://github-readme-stats.vercel.app/api?username=erfuuan&show_icons=true&hide_border=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erfuuan&layout=compact&theme=dark&hide_border=true)
-### Socials
 
+### Socials
 <p align="left">
+<a href="https://stackoverflow.com/users/4214976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="32" width="32" /></a>
    <a href="https://www.dev.to/erfuuan" target="_blank" rel="noreferrer">
      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" />
    </a>
