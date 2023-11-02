@@ -45,7 +45,7 @@ I'm a Backend Developer with a stack that includes Node.js, NestJS, TypeScript, 
 
 ### Socials
 <p align="left">
-<a href="https://stackoverflow.com/users/4214976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="32" width="32" /></a>
+<a href="https://stackoverflow.com/users/15270420/erfuuan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="32" width="32" /></a>
    <a href="https://www.dev.to/erfuuan" target="_blank" rel="noreferrer">
      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" />
    </a>
