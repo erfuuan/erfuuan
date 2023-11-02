@@ -40,6 +40,8 @@ I'm a Backend Developer with a stack that includes Node.js, NestJS, TypeScript, 
 
 </p>
 
+![erfan's github stats](https://github-readme-stats.vercel.app/api?username=erfuuan&show_icons=true&hide_border=true&theme=dark)
+
 ### Socials
 
 <p align="left">
