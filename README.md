@@ -26,6 +26,9 @@ I'm a Backend Developer with a stack that includes Node.js, NestJS, TypeScript, 
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" />
   </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" width="59" height="35" alt="" />
+  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/> </a> 
   <a href="https://graphql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" />
@@ -49,20 +52,30 @@ I'm a Backend Developer with a stack that includes Node.js, NestJS, TypeScript, 
 
 ### Socials
 <p align="left">
+
+
+
+<a href="https://twitter.com/erfuuan" target="blank"><img align="left" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="26" width="92" /></a>
+
+
 <a href="https://stackoverflow.com/users/15270420/erfuuan" target="blank"><img align="left" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="26" width="92" /></a>
 <a href="https://www.dev.to/erfuuan" target="_blank" rel="noreferrer">
- <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" width="62" height="26" />
+ <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" width="92" height="26" />
    </a>
 <a href="https://medium.com/@erfuuan" target="_blank" rel="noreferrer">
- <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="76" height="26" />
+ <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="92" height="26" />
    </a>
 <a href="mailto:erfuuan@gmail.com" target="_blank" rel="noreferrer">
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="72" height="25" />
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="92" height="26" />
    </a>
 <a href="https://www.linkedin.com/in/erfan-atayi-838816176/" target="_blank" rel="noreferrer">
- <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="99" height="25" />
+ <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="92" height="26" />
    </a>
 <a href="https://discordapp.com/users/681163329703772179" target="_blank" rel="noreferrer">
- <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" width="99" height="25" />
+ <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" width="92" height="26" />
    </a>
+<a href="" target="_blank" rel="noreferrer">
+ <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=whitee" width="92" height="26" />
+   </a>
+
 </p>
