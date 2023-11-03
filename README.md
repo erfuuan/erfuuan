@@ -53,4 +53,8 @@ I'm a Backend Developer with a stack that includes Node.js, NestJS, TypeScript, 
 <a href="https://www.dev.to/erfuuan" target="_blank" rel="noreferrer">
  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" />
    </a>
+<a href="https://medium.com/@erfuuan" target="_blank" rel="noreferrer">
+ <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="70" height="26" />
+   </a>
 </p>
+
