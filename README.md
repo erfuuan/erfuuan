@@ -1,7 +1,3 @@
-
-
-
-
 # Erfan
 ===================================
 
@@ -48,18 +44,13 @@ I'm a Backend Developer with a stack that includes Node.js, NestJS, TypeScript, 
   </a>
 
 </p>
-### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/erfuuan/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/erfuuan/github-stats-transparent/output/generated/languages.svg)
 
-</a>
+
 
 ### Socials
 <p align="left">
-<a href="https://stackoverflow.com/users/15270420/erfuuan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="32" width="32" /></a>
-   <a href="https://www.dev.to/erfuuan" target="_blank" rel="noreferrer">
-     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" />
+<a href="https://stackoverflow.com/users/15270420/erfuuan" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="32" width="32" /></a>
+<a href="https://www.dev.to/erfuuan" target="_blank" rel="noreferrer">
+ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" />
    </a>
 </p>
