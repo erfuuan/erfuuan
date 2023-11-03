@@ -49,15 +49,15 @@ I'm a Backend Developer with a stack that includes Node.js, NestJS, TypeScript, 
 
 ### Socials
 <p align="left">
-<a href="https://stackoverflow.com/users/15270420/erfuuan" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="32" width="32" /></a>
+<a href="https://stackoverflow.com/users/15270420/erfuuan" target="blank"><img align="left" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="26" width="92" /></a>
 <a href="https://www.dev.to/erfuuan" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" />
+ <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" width="62" height="26" />
    </a>
 <a href="https://medium.com/@erfuuan" target="_blank" rel="noreferrer">
- <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="70" height="26" />
+ <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="76" height="26" />
    </a>
 <a href="mailto:erfuuan@gmail.com" target="_blank" rel="noreferrer">
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="51" height="25" />
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="72" height="25" />
    </a>
 <a href="https://www.linkedin.com/in/erfan-atayi-838816176/" target="_blank" rel="noreferrer">
  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="99" height="25" />
