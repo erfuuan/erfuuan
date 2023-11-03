@@ -27,7 +27,7 @@ I'm a Backend Developer with a stack that includes Node.js, NestJS, TypeScript, 
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" />
   </a>
   <a href="" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" width="59" height="35" alt="" />
+    <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" width="59" height="35" alt="jest" />
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/> </a> 
   <a href="https://graphql.org/" target="_blank" rel="noreferrer">
