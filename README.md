@@ -56,5 +56,8 @@ I'm a Backend Developer with a stack that includes Node.js, NestJS, TypeScript, 
 <a href="https://medium.com/@erfuuan" target="_blank" rel="noreferrer">
  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="70" height="26" />
    </a>
-</p>
+<a href="mailto:erfuuan@gmail.com" target="_blank" rel="noreferrer">
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="51" height="25" />
+   </a>
 
+</p>
