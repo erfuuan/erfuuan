@@ -62,9 +62,7 @@ I'm a Backend Developer with a stack that includes Node.js, NestJS, TypeScript, 
 <a href="https://www.linkedin.com/in/erfan-atayi-838816176/" target="_blank" rel="noreferrer">
  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="99" height="25" />
    </a>
-
+<a href="discordapp.com/users/681163329703772179" target="_blank" rel="noreferrer">
+ <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" width="99" height="25" />
+   </a>
 </p>
-
-
-
-
