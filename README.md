@@ -63,7 +63,7 @@ I'm a Backend Developer with a stack that includes Node.js, NestJS, TypeScript, 
  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="92" height="26" /></a>
 <a href="mailto:erfuuan@gmail.com" target="_blank" rel="noreferrer">
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="92" height="26" /></a>
-<a href="https://www.linkedin.com/in/erfan-atayi-838816176/" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/erfuuan/" target="_blank" rel="noreferrer">
  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="92" height="26" /></a>
 <a href="https://discordapp.com/users/681163329703772179" target="_blank" rel="noreferrer">
  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" width="92" height="26" /></a>
