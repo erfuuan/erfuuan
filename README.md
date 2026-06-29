@@ -1,73 +1,151 @@
-# Erfan
-===================================
+<div align="center">
+
+<br>
+<br>
+<br>
+<br>
 
 
 
-I'm a Backend Developer with a stack that includes Node.js, NestJS, TypeScript, Express.js, MongoDB, PostgreSQL, Python, and GraphQL. My passion lies in the world of open source, and I have a deep interest in cybersecurity and bug bounty.
+<img src="https://github.com/erfuuan.png" width="130" height="130" alt="Erfan" style="border-radius: 50%; border: 3px solid #58a6ff; margin-top: -40px;"/>
 
-🌍 Let's build the future together! <br>
-🚀 Always exploring and learning. <br>
-🧠 Problem-solving with an Agile mindset. <br>
-⚡ Passionate about bridging the gap between tech and business.
+<br>
 
-### Skills
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=580&lines=Building+scalable+backend+systems;Crafting+APIs+with+NestJS+%26+GraphQL;Turning+ideas+into+production-ready+code)](https://git.io/typing-svg)
 
-<p align="left">
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /> </a>
-    <a href="https://nodejs.org" target="_blank"><img alt="Node.js"  width="39" height="39" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
-  </a>
-  <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" />
-  </a>
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" width="59" height="35" alt="jest" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/> </a> 
-  <a href="https://graphql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" />
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="36" height="36"/> </a> 
-    <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="36" height="36"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="36" height="36"/> </a> 
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="36" height="36"/> </a> 
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erfuuan/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/erfuuan)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erfuuan@gmail.com)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15270420/erfuuan)
 
-</p>
+</div>
 
-![erfan's GitHub stats](https://github-readme-stats.vercel.app/api/?username=erfuuan\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
-
-### Socials
-<p align="left">
+---
 
 
+<br>
 
-<a href="https://twitter.com/erfuuan" target="blank"><img align="left" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="26" width="92" /></a>
-<a href="https://stackoverflow.com/users/15270420/erfuuan" target="blank"><img align="left" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="26" width="92" /></a>
-<a href="https://www.dev.to/erfuuan" target="_blank" rel="noreferrer">
- <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" width="92" height="26" /></a>
-<a href="https://medium.com/@erfuuan" target="_blank" rel="noreferrer">
- <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="92" height="26" /></a>
-<a href="mailto:erfuuan@gmail.com" target="_blank" rel="noreferrer">
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="92" height="26" /></a>
-<a href="https://www.linkedin.com/in/erfuuan/" target="_blank" rel="noreferrer">
- <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="92" height="26" /></a>
-<a href="https://discordapp.com/users/681163329703772179" target="_blank" rel="noreferrer">
- <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" width="92" height="26" /></a>
-<a href="" target="_blank" rel="noreferrer">
- <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=whitee" width="92" height="26" /></a>
+<table>
+<tr>
+<td width="50%" align="center">
 
-</p>
+🌍 **Vision**
+
+Let's build the future together
+
+</td>
+<td width="50%" align="center">
+
+🚀 **Mindset**
+
+Always exploring and learning
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+🧠 **Approach**
+
+Agile problem-solving
+
+</td>
+<td align="center">
+
+⚡ **Focus**
+
+Bridging tech & business
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,py,nodejs,nestjs,express,graphql,mongodb,postgres,redis,docker,linux,git&perline=7&theme=dark" alt="Tech Stack"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=erfuuan&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=erfuuan&show_icons=true&rank_icon=percentile&theme=tokyonight&hide_border=true&include_all_commits=true" height="170" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=erfuuan&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfuuan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+<br>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=erfuuan&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=58a6ff&line=7aa2f7&point=bb9af7&area=true&custom_title=Contribution%20Activity)](https://github.com/erfuuan)
+
+</div>
+
+---
+
+### ✍️ Writing & Community
+
+<div align="center">
+
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/erfuuan)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@erfuuan)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/681163329703772179)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
+
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=erfuuan&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/erfuuan/erfuuan/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+
+<br>
+
+
+
+</div>
