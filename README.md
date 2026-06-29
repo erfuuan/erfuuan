@@ -3,13 +3,6 @@
 <br>
 <br>
 <br>
-<br>
-
-
-
-<img src="https://github.com/erfuuan.png" width="130" height="130" alt="Erfan" style="border-radius: 50%; border: 3px solid #58a6ff; margin-top: -40px;"/>
-
-<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=580&lines=Building+scalable+backend+systems;Crafting+APIs+with+NestJS+%26+GraphQL;Turning+ideas+into+production-ready+code)](https://git.io/typing-svg)
 
