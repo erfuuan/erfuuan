@@ -18,7 +18,7 @@ jobs:
         id: snake
         with:
           github_user_name: erfuuan
-          snake_color: "58a6ff"
+          snake_color: "fe8019"
           outputs: |
             dist/github-contribution-grid-snake-dark.svg
             dist/github-contribution-grid-snake.svg
